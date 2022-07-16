@@ -1,0 +1,12 @@
+.InputOption{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    color: gray;
+    padding: 5;
+    cursor: pointer;
+}
+.InputOption :hover{
+ background-color: whitesmoke;
+ border-radius: 10px;
+}
